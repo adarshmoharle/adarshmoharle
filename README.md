@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adarshmoharle
-- 👀 I’m interested in Azure DevOps, Kubernetes.
+- 👀 I’m interested in DevOps, Multi-Cloud, Docker, Kubernetes, Kafka etc
 - 🌱 I’m currently learning multi-cloud serices.
 - 📫 How to reach me moharle.adarsh1@gmail.com
 
