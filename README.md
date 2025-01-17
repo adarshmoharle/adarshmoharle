@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adarshmoharle
-- 👀 I’m interested in DevOps, Multi-Cloud, Docker, Kubernetes, Kafka etc
-- 🌱 I’m currently learning multi-cloud serices.
+- 👀 I’m interested in DevOps, AWS, Docker, Jenkins, Ansible, Kubernetes, Terraform, etc
+- 🌱 I’m currently learning multi-cloud services.
 - 📫 How to reach me moharle.adarsh1@gmail.com
 
 <!---
